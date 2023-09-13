@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/root/study/mprpc/build/src",
+  "command": "/usr/bin/clang++  -I/root/study/mprpc/src/include -I/root/study/mprpc/example -g -o CMakeFiles/mprpc.dir/logger.cc.o -c /root/study/mprpc/src/logger.cc",
+  "file": "/root/study/mprpc/src/logger.cc"
+},
+{
+  "directory": "/root/study/mprpc/build/src",
+  "command": "/usr/bin/clang++  -I/root/study/mprpc/src/include -I/root/study/mprpc/example -g -o CMakeFiles/mprpc.dir/mprpcapplication.cc.o -c /root/study/mprpc/src/mprpcapplication.cc",
+  "file": "/root/study/mprpc/src/mprpcapplication.cc"
+},
+{
+  "directory": "/root/study/mprpc/build/src",
+  "command": "/usr/bin/clang++  -I/root/study/mprpc/src/include -I/root/study/mprpc/example -g -o CMakeFiles/mprpc.dir/mprpcchannel.cc.o -c /root/study/mprpc/src/mprpcchannel.cc",
+  "file": "/root/study/mprpc/src/mprpcchannel.cc"
+},
+{
+  "directory": "/root/study/mprpc/build/src",
+  "command": "/usr/bin/clang++  -I/root/study/mprpc/src/include -I/root/study/mprpc/example -g -o CMakeFiles/mprpc.dir/mprpcconfig.cc.o -c /root/study/mprpc/src/mprpcconfig.cc",
+  "file": "/root/study/mprpc/src/mprpcconfig.cc"
+},
+{
+  "directory": "/root/study/mprpc/build/src",
+  "command": "/usr/bin/clang++  -I/root/study/mprpc/src/include -I/root/study/mprpc/example -g -o CMakeFiles/mprpc.dir/mprpccontroller.cc.o -c /root/study/mprpc/src/mprpccontroller.cc",
+  "file": "/root/study/mprpc/src/mprpccontroller.cc"
+},
+{
+  "directory": "/root/study/mprpc/build/src",
+  "command": "/usr/bin/clang++  -I/root/study/mprpc/src/include -I/root/study/mprpc/example -g -o CMakeFiles/mprpc.dir/rpcheader.pb.cc.o -c /root/study/mprpc/src/rpcheader.pb.cc",
+  "file": "/root/study/mprpc/src/rpcheader.pb.cc"
+},
+{
+  "directory": "/root/study/mprpc/build/src",
+  "command": "/usr/bin/clang++  -I/root/study/mprpc/src/include -I/root/study/mprpc/example -g -o CMakeFiles/mprpc.dir/rpcprovider.cc.o -c /root/study/mprpc/src/rpcprovider.cc",
+  "file": "/root/study/mprpc/src/rpcprovider.cc"
+},
+{
+  "directory": "/root/study/mprpc/build/src",
+  "command": "/usr/bin/clang++  -I/root/study/mprpc/src/include -I/root/study/mprpc/example -g -o CMakeFiles/mprpc.dir/zookeeperutil.cc.o -c /root/study/mprpc/src/zookeeperutil.cc",
+  "file": "/root/study/mprpc/src/zookeeperutil.cc"
+},
+{
+  "directory": "/root/study/mprpc/build/example/callee",
+  "command": "/usr/bin/clang++  -I/root/study/mprpc/src/include -I/root/study/mprpc/example -g -o CMakeFiles/provider.dir/friendservice.cc.o -c /root/study/mprpc/example/callee/friendservice.cc",
+  "file": "/root/study/mprpc/example/callee/friendservice.cc"
+},
+{
+  "directory": "/root/study/mprpc/build/example/callee",
+  "command": "/usr/bin/clang++  -I/root/study/mprpc/src/include -I/root/study/mprpc/example -g -o CMakeFiles/provider.dir/__/friend.pb.cc.o -c /root/study/mprpc/example/friend.pb.cc",
+  "file": "/root/study/mprpc/example/friend.pb.cc"
+},
+{
+  "directory": "/root/study/mprpc/build/example/caller",
+  "command": "/usr/bin/clang++  -I/root/study/mprpc/src/include -I/root/study/mprpc/example -g -o CMakeFiles/consumer.dir/callfriendservice.cc.o -c /root/study/mprpc/example/caller/callfriendservice.cc",
+  "file": "/root/study/mprpc/example/caller/callfriendservice.cc"
+},
+{
+  "directory": "/root/study/mprpc/build/example/caller",
+  "command": "/usr/bin/clang++  -I/root/study/mprpc/src/include -I/root/study/mprpc/example -g -o CMakeFiles/consumer.dir/__/friend.pb.cc.o -c /root/study/mprpc/example/friend.pb.cc",
+  "file": "/root/study/mprpc/example/friend.pb.cc"
+}
+]
